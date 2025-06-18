@@ -4,6 +4,7 @@
 
 dependent packages
 
+- flask
 - requests
 - python-dotenv
 
@@ -15,7 +16,7 @@ Website<br>
 To Run The Code<br>
 `source venv/bin/activate` <br>
 `python3 app.py`
-<br>
+<br><br>
 Author: John Jayson B. De Leon<br>
 Github: [savjaylade84](github.com/savjaylade84) <br>
 Email: savjaylade84@gmail.com<br>
