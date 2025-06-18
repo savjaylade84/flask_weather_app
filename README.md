@@ -10,9 +10,9 @@ dependent packages
 <br>
 
 Website<br>
-`https://weatherflaskapp.onrender.com/`<br>
+[Weather App Link](https://weatherflaskapp.onrender.com/)<br>
 
-To Run The Code
+To Run The Code<br>
 `source venv/bin/activate` <br>
 `python3 app.py`
 <br>
