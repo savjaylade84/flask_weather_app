@@ -10,7 +10,7 @@ dependent packages
 <br>
 
 To Run The Code
-`source venv/bin/activate`
+`source venv/bin/activate` <br>
 `python3 app.py`
 
 Author: John Jayson B. De Leon<br>
