@@ -2,6 +2,8 @@
 ### A python flask based website that uses openweathermap api to<br> 
 ### show weather of all the city around the world.
 
+<br>
+
 #### dependent packages
 
 - flask
