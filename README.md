@@ -2,7 +2,7 @@
 ### A python flask based website that uses openweathermap api to<br> 
 ### show weather of all the city around the world.
 
-dependent packages
+#### dependent packages
 
 - flask
 - requests
@@ -10,12 +10,16 @@ dependent packages
 
 <br>
 
-Website<br>
-[Weather App Link](https://weatherflaskapp.onrender.com/)<br>
+#### Website<br>
+[Weather App Link](https://weatherflaskapp.onrender.com/)
 
-To Run The Code<br>
+<br>
+
+#### To Run The Code<br>
+(Windows) `set FLASK_APP=app` | (Linux | Macos) `export FLASK_APP=app`<br>
 `source venv/bin/activate` <br>
-`python3 app.py`
+`python3 app.py` or `flask run`
+
 <br><br>
 Author: John Jayson B. De Leon<br>
 Github: [savjaylade84](github.com/savjaylade84) <br>
