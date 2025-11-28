@@ -65,5 +65,5 @@ python app.py
 
 Author: John Jayson B. De Leon</br>
 Github: [savjaylade84](github.com/savjaylade84) </br>
-Email: <savjaylade84@gmail.com> </br>
+Email: <deleonjohnjayson@gmail.com> |  <deleonjohnjayson@proton.me> </br>
 Portfolio: [Jisun](https://savjalade84.pythonanywhere.com/)</br>
